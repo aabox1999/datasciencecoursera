@@ -1,0 +1,19 @@
+---
+title: "HelloWorld"
+author: "YOU! (Aishwarya Bagri)"
+date: "13 September 2019"
+output: word_document
+---
+
+## ## This is a markdown file. 
+
+
+**I have really enjoyed doing this.**
+
+
+
+```{r}
+print("Happiness")
+```
+
+
